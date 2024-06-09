@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Andriyanto</string>
+    <string name="nama">Andriyanto Ryan Pramudipta</string>
+    <string name="email">andriantoryan85@gmail.com</string>
+    <string name="no_telp">083824663106</string>
+    <string name="desk_mhs">Mahasiswa Prodi Teknik Informatika</string>
+    <string name="desk_kampus">Universitas Komputer Indonesia</string>
+    <string name="nim">10121022</string>
+    <string name="kelas">Pemograman Android-3</string>
+    <string name="kontak">Kontak</string>
+    <string name="alamat_email">Email</string>
+    <string name="sosmed">Social Media</string>
+    <string name="hobi">Hobi</string>
+    <string name="cita_cita">Cita-cita</string>
+    <string name="makes">Makes</string>
+    <string name="mikes">Mikes</string>
+    <string name="interest">Interest</string>
+    <string name="isi_hobi">Nonton Anime, Bermain Game, Ngoding</string>
+    <string name="isi_cita">Pengembang Software</string>
+    <string name="isi_makes">Mie Goreng, Nasi Goreng, Martabak  </string>
+    <string name="isi_mikes">Cappuccino Cincau, Thai tea, Teh Tarik</string>
+    <string name="isi_interest">Music, Gaming, Coding</string>
+    <string name="daily">Daily Activities</string>
+    <string name="friends">Friend List</string>
+    <string name="findme">Find Me</string>
+</resources>
